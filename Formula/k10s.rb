@@ -3,9 +3,9 @@
 class K10s < Formula
   desc "Kubernetes cluster viewer that draws your cluster as a village"
   homepage "https://github.com/michaelzheng67/k10s"
-  url "https://github.com/michaelzheng67/k10s/releases/download/v0.1.2/k10s-0.1.2-macos-universal.tar.gz"
-  sha256 "4e2bfea2a22638e0e32f581f97c21b70d4ce7e4c3612e3b6cbb10a0c7cad34a0"
-  version "0.1.2"
+  url "https://github.com/michaelzheng67/k10s/releases/download/v0.1.3/k10s-0.1.3-macos-universal.tar.gz"
+  sha256 "63f8bd88b7d3c0e1d5388a060832b3102a57bbde48e82746e22747f5feb9ddb9"
+  version "0.1.3"
 
   depends_on macos: :ventura
 
